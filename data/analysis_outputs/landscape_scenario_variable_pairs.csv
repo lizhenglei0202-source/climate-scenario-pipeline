@@ -1,0 +1,201 @@
+family,var_norm,count
+Custom/Regional,co2 emissions,135
+Custom/Regional,ghg emissions,105
+RCP,streamflow,91
+SSP,suitable habitat area,77
+RCP,suitable habitat area,71
+Custom/Regional,water yield,51
+Custom/Regional,streamflow,50
+RCP,temperature increase,48
+SSP,total suitable habitat area,48
+Custom/Regional,runoff,45
+Custom/Regional,global mean temperature change,41
+RCP,habitat suitability,40
+SRES,temperature increase,39
+RCP,maize yield,33
+SSP,total suitable area,32
+RCP,mean temperature increase,31
+RCP,habitat suitability area,30
+RCP,precipitation change,30
+RCP,temperature change,30
+RCP,runoff,29
+SSP,runoff,29
+Custom/Regional,carbon emissions,29
+Custom/Regional,precipitation,29
+RCP,area of suitable habitat,28
+RCP,rice yield,28
+Custom/Regional,annual runoff,28
+Custom/Regional,ghg emissions reduction,28
+RCP,hydropower generation,27
+SRES,annual runoff,27
+Custom/Regional,surface runoff,27
+SSP,potential distribution area,26
+RCP,drought frequency,25
+RCP,water yield,25
+SSP,area of suitable habitat,25
+RCP,annual runoff,24
+SSP,streamflow,24
+RCP,net primary productivity (npp),24
+Custom/Regional,temperature change,24
+Custom/Regional,npp,23
+Custom/Regional,gdp,23
+RCP,maximum temperature increase,23
+RCP,mean annual streamflow,22
+Custom/Regional,climate change impact,22
+RCP,crop yield,22
+SSP,annual precipitation,21
+RCP,wheat yield,21
+SSP,temperature increase,20
+RCP,grain yield,20
+RCP,potential distribution area,20
+Custom/Regional,mean annual runoff,20
+SRES,runoff,19
+RCP,species richness,19
+Custom/Regional,carbon storage,19
+RCP,groundwater recharge,19
+Custom/Regional,biomass,18
+SRES,precipitation,18
+SSP,precipitation,18
+Custom/Regional,amoc strength,18
+Custom/Regional,surface air temperature,18
+SRES,temperature change,18
+Custom/Regional,global mean temperature increase,18
+RCP,mean temperature change,17
+SSP,habitat suitability area,17
+RCP,mean annual runoff,17
+Custom/Regional,precipitation change,17
+RCP,total runoff,17
+RCP,precipitation,17
+Custom/Regional,co2 emissions reduction,17
+RCP,annual streamflow,16
+SRES,wheat yield,16
+Custom/Regional,crop yield,16
+Custom/Regional,greenhouse gas emissions,16
+Custom/Regional,global mean temperature,16
+RCP,flooded area,16
+SSP,habitat area,16
+RCP,annual precipitation,15
+RCP,mean annual temperature,15
+Custom/Regional,radiative forcing,15
+Custom/Regional,wheat yield,15
+Custom/Regional,expected annual damage (ead),15
+Custom/Regional,carbon sequestration,15
+RCP,global mean temperature increase,14
+SRES,streamflow,14
+Custom/Regional,global temperature increase,14
+Custom/Regional,species richness,14
+Custom/Regional,global mean surface temperature,14
+SSP,potential suitable habitat area,14
+Custom/Regional,temperature increase,14
+RCP,total suitable area,14
+SSP,habitat suitability,14
+RCP,mean annual temperature increase,14
+Custom/Regional,grain yield,14
+RCP,rainfall intensity,14
+SSP,mean annual temperature,13
+SSP,global mean surface temperature,13
+Custom/Regional,groundwater recharge,13
+RCP,maximum temperature,13
+SRES,groundwater recharge,13
+Custom/Regional,global mean surface temperature change,13
+Custom/Regional,net primary productivity (npp),13
+RCP,average annual temperature increase,13
+Custom/Regional,surface temperature,13
+SRES,reservoir inflow,12
+SRES,mean temperature change,12
+Custom/Regional,maize yield,12
+SSP,co2 emissions,12
+SRES,atmospheric co2 concentration,12
+Custom/Regional,surface temperature change,12
+Custom/Regional,air temperature,12
+SSP,highly suitable habitat area,12
+SSP,maize yield,11
+RCP,corn yield,11
+Custom/Regional,groundwater level,11
+Custom/Regional,surface air temperature (sat),11
+RCP,drought severity,11
+SSP,rainfall intensity,11
+SRES,mean annual runoff,11
+Custom/Regional,lake level,11
+Custom/Regional,gpp,11
+Custom/Regional,net present value (npv),11
+RCP,sea level rise,11
+SSP,annual rainfall,11
+SSP,suitable area,11
+SSP,peak discharge,11
+Custom/Regional,mean temperature change,10
+Custom/Regional,water consumption,10
+Custom/Regional,water deficit,10
+Custom/Regional,near-surface temperature change,10
+RCP,net present value (npv),10
+SSP,ndvi,10
+Custom/Regional,enso amplitude,10
+SSP,potential suitable area,10
+RCP,average temperature increase,10
+SSP,maximum temperature increase,10
+RCP,co2 concentration,10
+RCP,mean annual rainfall,10
+Custom/Regional,evapotranspiration (et),10
+RCP,discharge,10
+SSP,annual streamflow,10
+RCP,vulnerability index,10
+RCP,habitat loss,10
+RCP,global mean temperature change,10
+Custom/Regional,pm2.5 concentration,10
+SSP,area of suitable habitats,10
+Custom/Regional,cumulative co2 emissions,10
+Custom/Regional,cumulative ghg emissions,10
+RCP,gdp loss,10
+RCP,ch4 emissions,9
+SRES,mean annual temperature increase,9
+Custom/Regional,heat-related mortality,9
+RCP,annual mean temperature increase,9
+RCP,genomic vulnerability,9
+Custom/Regional,maize yield change,9
+Custom/Regional,annual precipitation,9
+SSP,cropland area,9
+SRES,grain yield,9
+SSP,rice yield,9
+RCP,river discharge,9
+RCP,surface runoff,9
+Custom/Regional,carbon price,9
+Custom/Regional,discharge,9
+SSP,pm2.5 concentration,9
+Custom/Regional,co₂ emissions,9
+SSP,annual average precipitation,9
+Custom/Regional,river flow,9
+Custom/Regional,sea-level rise,9
+Custom/Regional,population size,9
+Custom/Regional,annual average runoff,9
+RCP,suitable area,9
+RCP,net primary production (npp),9
+RCP,peak discharge,9
+Custom/Regional,co2 concentration,9
+Custom/Regional,co emissions,9
+SSP,mean temperature increase,8
+SSP,distribution area,8
+Custom/Regional,atmospheric co2 concentration,8
+SSP,average nsat increase,8
+SSP,surface air temperature,8
+Custom/Regional,carbon footprint,8
+Custom/Regional,soil erosion,8
+SSP,mean discharge,8
+SSP,sea level rise,8
+SRES,species richness,8
+Custom/Regional,rice yield,8
+Custom/Regional,soil loss,8
+Custom/Regional,mean annual streamflow,8
+SRES,precipitation change,8
+SSP,area of highly suitable habitats,8
+Custom/Regional,soil temperature,8
+Custom/Regional,cumulative emissions,8
+RCP,coral cover,8
+RCP,net ecosystem productivity (nep),8
+RCP,water availability,8
+SRES,mean temperature increase,8
+RCP,irrigation water requirement (iwr),8
+RCP,potential evapotranspiration (pet),8
+Custom/Regional,total water overflow volume,8
+RCP,unmet water demand,8
+RCP,annual discharge,8
+SRES,potential distribution area,8

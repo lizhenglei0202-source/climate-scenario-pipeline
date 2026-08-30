@@ -1,0 +1,26 @@
+{
+  "real_scenarios": 19502,
+  "unique_papers": 10789,
+  "family_counts": {
+    "Custom/Regional": "7385",
+    "RCP": "6435",
+    "SSP": "3452",
+    "SRES": "2230"
+  },
+  "top_ar6_categories": {
+    "C5": "2885",
+    "C8": "1655",
+    "C3": "1071",
+    "C8 (RCP equivalent)": "1049",
+    "C7": "829",
+    "C5 (RCP equivalent)": "808",
+    "C1": "720",
+    "C4": "710",
+    "SSP5-8.5": "594",
+    "C6": "456",
+    "C3 (RCP equivalent)": "385",
+    "SSP2-4.5": "226",
+    "C7: limit warming to 4°C (>50%)": "206",
+    "C6 (RCP equivalent)": "155"
+  }
+}

@@ -1,0 +1,343 @@
+family,ar6_cat,var_group,count
+Custom,C1,Cryosphere & sea level,3
+Custom,C1,Ecology & vegetation,8
+Custom,C1,Emissions & carbon,33
+Custom,C1,Food & agriculture,8
+Custom,C1,Hazards & extremes,4
+Custom,C1,Human systems,17
+Custom,C1,"Land, air & ocean",4
+Custom,C1,Other,21
+Custom,C1,Precipitation,4
+Custom,C1,Temperature & heat,16
+Custom,C1,Water & hydrology,7
+Custom,C2,Ecology & vegetation,3
+Custom,C2,Emissions & carbon,16
+Custom,C2,Food & agriculture,2
+Custom,C2,Hazards & extremes,3
+Custom,C2,Human systems,4
+Custom,C2,"Land, air & ocean",1
+Custom,C2,Other,11
+Custom,C2,Precipitation,4
+Custom,C2,Temperature & heat,7
+Custom,C2,Water & hydrology,7
+Custom,C3,Cryosphere & sea level,5
+Custom,C3,Ecology & vegetation,28
+Custom,C3,Emissions & carbon,84
+Custom,C3,Food & agriculture,35
+Custom,C3,Hazards & extremes,14
+Custom,C3,Human systems,39
+Custom,C3,"Land, air & ocean",16
+Custom,C3,Other,84
+Custom,C3,Precipitation,28
+Custom,C3,Temperature & heat,75
+Custom,C3,Water & hydrology,38
+Custom,C4,Cryosphere & sea level,5
+Custom,C4,Ecology & vegetation,35
+Custom,C4,Emissions & carbon,84
+Custom,C4,Food & agriculture,27
+Custom,C4,Hazards & extremes,8
+Custom,C4,Human systems,46
+Custom,C4,"Land, air & ocean",9
+Custom,C4,Other,64
+Custom,C4,Precipitation,16
+Custom,C4,Temperature & heat,49
+Custom,C4,Water & hydrology,44
+Custom,C5,Cryosphere & sea level,26
+Custom,C5,Ecology & vegetation,112
+Custom,C5,Emissions & carbon,184
+Custom,C5,Food & agriculture,90
+Custom,C5,Hazards & extremes,45
+Custom,C5,Human systems,110
+Custom,C5,"Land, air & ocean",84
+Custom,C5,Other,238
+Custom,C5,Precipitation,56
+Custom,C5,Temperature & heat,154
+Custom,C5,Water & hydrology,170
+Custom,C6,Cryosphere & sea level,7
+Custom,C6,Ecology & vegetation,23
+Custom,C6,Emissions & carbon,16
+Custom,C6,Food & agriculture,17
+Custom,C6,Hazards & extremes,20
+Custom,C6,Human systems,16
+Custom,C6,"Land, air & ocean",14
+Custom,C6,Other,53
+Custom,C6,Precipitation,4
+Custom,C6,Temperature & heat,45
+Custom,C6,Water & hydrology,21
+Custom,C7,Cryosphere & sea level,9
+Custom,C7,Ecology & vegetation,39
+Custom,C7,Emissions & carbon,89
+Custom,C7,Food & agriculture,27
+Custom,C7,Hazards & extremes,7
+Custom,C7,Human systems,55
+Custom,C7,"Land, air & ocean",22
+Custom,C7,Other,63
+Custom,C7,Precipitation,4
+Custom,C7,Temperature & heat,42
+Custom,C7,Water & hydrology,54
+Custom,C8,Cryosphere & sea level,5
+Custom,C8,Ecology & vegetation,29
+Custom,C8,Emissions & carbon,39
+Custom,C8,Food & agriculture,21
+Custom,C8,Hazards & extremes,10
+Custom,C8,Human systems,30
+Custom,C8,"Land, air & ocean",14
+Custom,C8,Other,64
+Custom,C8,Precipitation,7
+Custom,C8,Temperature & heat,27
+Custom,C8,Water & hydrology,40
+RCP,C1,Cryosphere & sea level,15
+RCP,C1,Ecology & vegetation,105
+RCP,C1,Emissions & carbon,24
+RCP,C1,Food & agriculture,38
+RCP,C1,Hazards & extremes,29
+RCP,C1,Human systems,31
+RCP,C1,"Land, air & ocean",10
+RCP,C1,Other,67
+RCP,C1,Precipitation,22
+RCP,C1,Temperature & heat,63
+RCP,C1,Water & hydrology,69
+RCP,C2,Cryosphere & sea level,4
+RCP,C2,Ecology & vegetation,31
+RCP,C2,Emissions & carbon,3
+RCP,C2,Food & agriculture,14
+RCP,C2,Hazards & extremes,4
+RCP,C2,Human systems,3
+RCP,C2,"Land, air & ocean",3
+RCP,C2,Other,10
+RCP,C2,Precipitation,9
+RCP,C2,Temperature & heat,16
+RCP,C2,Water & hydrology,20
+RCP,C3,Cryosphere & sea level,19
+RCP,C3,Ecology & vegetation,142
+RCP,C3,Emissions & carbon,36
+RCP,C3,Food & agriculture,75
+RCP,C3,Hazards & extremes,42
+RCP,C3,Human systems,65
+RCP,C3,"Land, air & ocean",31
+RCP,C3,Other,166
+RCP,C3,Precipitation,59
+RCP,C3,Temperature & heat,100
+RCP,C3,Water & hydrology,161
+RCP,C4,Cryosphere & sea level,10
+RCP,C4,Ecology & vegetation,51
+RCP,C4,Emissions & carbon,9
+RCP,C4,Food & agriculture,20
+RCP,C4,Hazards & extremes,14
+RCP,C4,Human systems,11
+RCP,C4,"Land, air & ocean",8
+RCP,C4,Other,35
+RCP,C4,Precipitation,19
+RCP,C4,Temperature & heat,39
+RCP,C4,Water & hydrology,47
+RCP,C5,Cryosphere & sea level,18
+RCP,C5,Ecology & vegetation,134
+RCP,C5,Emissions & carbon,28
+RCP,C5,Food & agriculture,65
+RCP,C5,Hazards & extremes,67
+RCP,C5,Human systems,58
+RCP,C5,"Land, air & ocean",46
+RCP,C5,Other,151
+RCP,C5,Precipitation,66
+RCP,C5,Temperature & heat,108
+RCP,C5,Water & hydrology,170
+RCP,C6,Cryosphere & sea level,4
+RCP,C6,Ecology & vegetation,36
+RCP,C6,Emissions & carbon,4
+RCP,C6,Food & agriculture,17
+RCP,C6,Hazards & extremes,9
+RCP,C6,Human systems,16
+RCP,C6,"Land, air & ocean",14
+RCP,C6,Other,26
+RCP,C6,Precipitation,13
+RCP,C6,Temperature & heat,18
+RCP,C6,Water & hydrology,27
+RCP,C7,Cryosphere & sea level,1
+RCP,C7,Ecology & vegetation,13
+RCP,C7,Emissions & carbon,4
+RCP,C7,Food & agriculture,10
+RCP,C7,Hazards & extremes,6
+RCP,C7,Human systems,9
+RCP,C7,"Land, air & ocean",3
+RCP,C7,Other,30
+RCP,C7,Precipitation,12
+RCP,C7,Temperature & heat,9
+RCP,C7,Water & hydrology,30
+RCP,C8,Cryosphere & sea level,45
+RCP,C8,Ecology & vegetation,296
+RCP,C8,Emissions & carbon,55
+RCP,C8,Food & agriculture,138
+RCP,C8,Hazards & extremes,138
+RCP,C8,Human systems,119
+RCP,C8,"Land, air & ocean",74
+RCP,C8,Other,377
+RCP,C8,Precipitation,169
+RCP,C8,Temperature & heat,250
+RCP,C8,Water & hydrology,291
+SRES,C1,Ecology & vegetation,1
+SRES,C1,Food & agriculture,1
+SRES,C1,Hazards & extremes,1
+SRES,C1,Human systems,1
+SRES,C1,Other,1
+SRES,C1,Precipitation,1
+SRES,C1,Temperature & heat,2
+SRES,C1,Water & hydrology,1
+SRES,C2,Ecology & vegetation,2
+SRES,C2,Food & agriculture,1
+SRES,C2,Human systems,2
+SRES,C2,"Land, air & ocean",3
+SRES,C2,Other,2
+SRES,C2,Precipitation,4
+SRES,C2,Temperature & heat,4
+SRES,C2,Water & hydrology,6
+SRES,C3,Cryosphere & sea level,1
+SRES,C3,Ecology & vegetation,4
+SRES,C3,Emissions & carbon,2
+SRES,C3,Food & agriculture,2
+SRES,C3,Hazards & extremes,3
+SRES,C3,Human systems,3
+SRES,C3,"Land, air & ocean",6
+SRES,C3,Other,9
+SRES,C3,Precipitation,3
+SRES,C3,Temperature & heat,6
+SRES,C3,Water & hydrology,7
+SRES,C4,Cryosphere & sea level,2
+SRES,C4,Ecology & vegetation,19
+SRES,C4,Emissions & carbon,18
+SRES,C4,Food & agriculture,21
+SRES,C4,Hazards & extremes,8
+SRES,C4,Human systems,11
+SRES,C4,"Land, air & ocean",10
+SRES,C4,Other,45
+SRES,C4,Precipitation,12
+SRES,C4,Temperature & heat,43
+SRES,C4,Water & hydrology,33
+SRES,C5,Cryosphere & sea level,42
+SRES,C5,Ecology & vegetation,144
+SRES,C5,Emissions & carbon,56
+SRES,C5,Food & agriculture,110
+SRES,C5,Hazards & extremes,72
+SRES,C5,Human systems,61
+SRES,C5,"Land, air & ocean",65
+SRES,C5,Other,233
+SRES,C5,Precipitation,141
+SRES,C5,Temperature & heat,213
+SRES,C5,Water & hydrology,272
+SRES,C6,Cryosphere & sea level,7
+SRES,C6,Ecology & vegetation,19
+SRES,C6,Emissions & carbon,7
+SRES,C6,Food & agriculture,3
+SRES,C6,Hazards & extremes,4
+SRES,C6,Human systems,6
+SRES,C6,"Land, air & ocean",6
+SRES,C6,Other,12
+SRES,C6,Precipitation,8
+SRES,C6,Temperature & heat,15
+SRES,C6,Water & hydrology,31
+SRES,C7,Cryosphere & sea level,6
+SRES,C7,Ecology & vegetation,28
+SRES,C7,Emissions & carbon,14
+SRES,C7,Food & agriculture,24
+SRES,C7,Hazards & extremes,10
+SRES,C7,Human systems,15
+SRES,C7,"Land, air & ocean",15
+SRES,C7,Other,35
+SRES,C7,Precipitation,11
+SRES,C7,Temperature & heat,24
+SRES,C7,Water & hydrology,43
+SRES,C8,Cryosphere & sea level,1
+SRES,C8,Ecology & vegetation,8
+SRES,C8,Emissions & carbon,1
+SRES,C8,Food & agriculture,7
+SRES,C8,Hazards & extremes,1
+SRES,C8,Other,6
+SRES,C8,Precipitation,4
+SRES,C8,Temperature & heat,11
+SRES,C8,Water & hydrology,4
+SSP,C1,Cryosphere & sea level,5
+SSP,C1,Ecology & vegetation,157
+SSP,C1,Emissions & carbon,40
+SSP,C1,Food & agriculture,31
+SSP,C1,Hazards & extremes,32
+SSP,C1,Human systems,37
+SSP,C1,"Land, air & ocean",31
+SSP,C1,Other,87
+SSP,C1,Precipitation,23
+SSP,C1,Temperature & heat,61
+SSP,C1,Water & hydrology,47
+SSP,C2,Ecology & vegetation,24
+SSP,C2,Emissions & carbon,4
+SSP,C2,Food & agriculture,8
+SSP,C2,Hazards & extremes,7
+SSP,C2,Human systems,10
+SSP,C2,"Land, air & ocean",7
+SSP,C2,Other,14
+SSP,C2,Precipitation,5
+SSP,C2,Temperature & heat,8
+SSP,C2,Water & hydrology,13
+SSP,C3,Cryosphere & sea level,12
+SSP,C3,Ecology & vegetation,153
+SSP,C3,Emissions & carbon,30
+SSP,C3,Food & agriculture,45
+SSP,C3,Hazards & extremes,36
+SSP,C3,Human systems,42
+SSP,C3,"Land, air & ocean",31
+SSP,C3,Other,102
+SSP,C3,Precipitation,55
+SSP,C3,Temperature & heat,68
+SSP,C3,Water & hydrology,66
+SSP,C4,Cryosphere & sea level,1
+SSP,C4,Ecology & vegetation,17
+SSP,C4,Emissions & carbon,3
+SSP,C4,Food & agriculture,8
+SSP,C4,Hazards & extremes,4
+SSP,C4,Human systems,12
+SSP,C4,"Land, air & ocean",3
+SSP,C4,Other,15
+SSP,C4,Precipitation,3
+SSP,C4,Temperature & heat,17
+SSP,C4,Water & hydrology,12
+SSP,C5,Cryosphere & sea level,5
+SSP,C5,Ecology & vegetation,52
+SSP,C5,Emissions & carbon,23
+SSP,C5,Food & agriculture,16
+SSP,C5,Hazards & extremes,22
+SSP,C5,Human systems,21
+SSP,C5,"Land, air & ocean",10
+SSP,C5,Other,51
+SSP,C5,Precipitation,23
+SSP,C5,Temperature & heat,33
+SSP,C5,Water & hydrology,30
+SSP,C6,Cryosphere & sea level,1
+SSP,C6,Ecology & vegetation,32
+SSP,C6,Emissions & carbon,8
+SSP,C6,Food & agriculture,8
+SSP,C6,Hazards & extremes,8
+SSP,C6,Human systems,10
+SSP,C6,"Land, air & ocean",9
+SSP,C6,Other,16
+SSP,C6,Precipitation,6
+SSP,C6,Temperature & heat,21
+SSP,C6,Water & hydrology,9
+SSP,C7,Cryosphere & sea level,7
+SSP,C7,Ecology & vegetation,106
+SSP,C7,Emissions & carbon,17
+SSP,C7,Food & agriculture,26
+SSP,C7,Hazards & extremes,19
+SSP,C7,Human systems,29
+SSP,C7,"Land, air & ocean",17
+SSP,C7,Other,69
+SSP,C7,Precipitation,28
+SSP,C7,Temperature & heat,42
+SSP,C7,Water & hydrology,40
+SSP,C8,Cryosphere & sea level,23
+SSP,C8,Ecology & vegetation,252
+SSP,C8,Emissions & carbon,33
+SSP,C8,Food & agriculture,69
+SSP,C8,Hazards & extremes,69
+SSP,C8,Human systems,62
+SSP,C8,"Land, air & ocean",46
+SSP,C8,Other,200
+SSP,C8,Precipitation,87
+SSP,C8,Temperature & heat,135
+SSP,C8,Water & hydrology,101

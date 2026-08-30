@@ -1,0 +1,9 @@
+Analysis,Eligibility threshold,Matched locations,Research later than target,Median gap (years),Minimum gap (years),Maximum gap (years)
+Pair-weighted location median,n ≥ 10 dated pairs,21,20,20.0,0.0,29.0
+Pair-weighted location median,n ≥ 15 dated pairs,11,10,20.0,0.0,25.0
+Pair-weighted location median,n ≥ 20 dated pairs,9,8,20.0,0.0,25.0
+Pair-weighted location median,n ≥ 30 dated pairs,6,5,20.0,0.0,20.0
+Pair-weighted location median,n ≥ 50 dated pairs,2,1,5.0,0.0,10.0
+Equal-file location median,main locations: n ≥ 15 dated pairs,11,10,20.0,0.0,25.0
+Deduplicated paper-scenario-year median,main locations: n ≥ 15 dated pairs,11,10,20.0,0.0,25.0
+"Pair-weighted, law-status targets only",main locations: n ≥ 15 dated pairs,6,6,20.0,20.0,25.0

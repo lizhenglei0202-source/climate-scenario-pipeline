@@ -1,0 +1,12 @@
+ISO3,Economy,Dated pairs,Research median,Official target,Gap years,Target status,CI low,CI high,CI excludes target
+IND,India,51,2070.0,2070,0.0,In policy document,2060.0,2070.0,False
+CHN,China,499,2070.0,2060,10.0,In policy document,2062.0,2070.0,True
+AUS,Australia,21,2070.0,2050,20.0,In law,2066.0,2077.0,True
+BRA,Brazil,34,2070.0,2050,20.0,In policy document,2070.0,2070.0,True
+CAN,Canada,40,2070.0,2050,20.0,In law,2070.0,2070.0,True
+ESP,Spain,18,2070.0,2050,20.0,In law,2060.0,2070.0,True
+ETH,Ethiopia,33,2070.0,2050,20.0,In policy document,2065.0,2075.0,True
+GBR,United Kingdom,20,2070.0,2050,20.0,In law,2056.0,2070.0,True
+JPN,Japan,18,2070.0,2050,20.0,In policy document,2057.5,2070.0,True
+KOR,South Korea,37,2070.0,2050,20.0,In law,2070.0,2070.0,True
+DEU,Germany,28,2070.0,2045,25.0,In law,2070.0,2070.0,True

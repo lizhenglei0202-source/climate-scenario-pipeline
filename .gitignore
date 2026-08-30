@@ -1,0 +1,23 @@
+# secrets: never commit real values, but DO ship the template
+.env
+.env.*
+!.env.example
+*.key
+
+# caches and intermediates
+__pycache__/
+*.pyc
+.venv/
+figures/evidence_chain/cache/
+*.pkl
+
+# large local artefacts that belong on Zenodo, not in git
+scenario_json_details/
+pdf_corpus/
+*.log
+results_*.zip
+climate_ipcc_pipeline_result*.csv
+
+# OS
+.DS_Store
+*.tmp

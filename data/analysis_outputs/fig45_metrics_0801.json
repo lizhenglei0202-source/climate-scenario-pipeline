@@ -1,0 +1,26 @@
+{
+  "carbon_budget_n": 4739,
+  "carbon_budget_at_or_below_500_pct": 29.774,
+  "carbon_budget_above_1150_pct": 32.665,
+  "carbon_budget_above_3500_pct": 9.01,
+  "time_horizon_n": 17394,
+  "time_horizon_explicit_2025_2035_pct": 8.261,
+  "time_horizon_range_only_2025_2035_pct": 1.455,
+  "time_horizon_intersection_2025_2035_pct": 9.716,
+  "time_horizon_single_endpoint_outside_pct": 64.022,
+  "time_horizon_other_outside_pct": 26.262,
+  "custom_country_pairs": 139,
+  "custom_country_count": 33,
+  "custom_top10_iso3": [
+    "CHN",
+    "GBR",
+    "AUS",
+    "IND",
+    "MEX",
+    "NLD",
+    "CAN",
+    "DEU",
+    "ESP",
+    "SWE"
+  ]
+}

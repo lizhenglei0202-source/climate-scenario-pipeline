@@ -1,0 +1,64 @@
+Economy,ISO3,Target year used,Status,Priority,Comparison treatment,Audit note
+Finland,FIN,2035,In law,1 (law),Included,NZT/ECIU
+Austria,AUT,2040,In law,1 (law),Included,NZT/ECIU
+Iceland,ISL,2040,In law,1 (law),Included,NZT/ECIU
+Denmark,DNK,2045,In law,1 (law),Included,Current country record gives 2045; the earlier 2050 value was replaced.
+Germany,DEU,2045,In law,1 (law),Included,National Climate Change Act fixes 2045; used instead of the tracker export's EU-level 2050 entry.
+Nepal,NPL,2045,In policy document,2 (policy),Included,NZT/ECIU
+Sweden,SWE,2045,In law,1 (law),Included,NZT/ECIU
+Argentina,ARG,2050,In policy document,2 (policy),Included,NZT/ECIU
+Australia,AUS,2050,In law,1 (law),Included,NZT/ECIU
+Belgium,BEL,2050,In law (EU),1 (law),Included,NZT/ECIU
+Brazil,BRA,2050,In policy document,2 (policy),Included,NZT/ECIU
+Bulgaria,BGR,2050,In law (EU),1 (law),Included,NZT/ECIU
+Canada,CAN,2050,In law,1 (law),Included,NZT/ECIU
+Chile,CHL,2050,In law,1 (law),Included,NZT/ECIU
+Colombia,COL,2050,In law,1 (law),Included,NZT/ECIU
+Costa Rica,CRI,2050,In policy document,2 (policy),Included,NZT/ECIU
+Croatia,HRV,2050,In law (EU),1 (law),Included,NZT/ECIU
+Czechia,CZE,2050,In law (EU),1 (law),Included,NZT/ECIU
+Estonia,EST,2050,In law (EU),1 (law),Included,NZT/ECIU
+Ethiopia,ETH,2050,In policy document,2 (policy),Included,NZT/ECIU
+France,FRA,2050,In law,1 (law),Included,NZT/ECIU
+Greece,GRC,2050,In law (EU),1 (law),Included,NZT/ECIU
+Hungary,HUN,2050,In law (EU),1 (law),Included,NZT/ECIU
+Ireland,IRL,2050,In law (EU),1 (law),Included,NZT/ECIU
+Israel,ISR,2050,Proposed / discussion,4 (proposed),Included,NZT/ECIU
+Italy,ITA,2050,In law (EU),1 (law),Included,NZT/ECIU
+Japan,JPN,2050,In policy document,2 (policy),Included,NZT/ECIU
+Kenya,KEN,2050,In policy document,2 (policy),Included,Policy documents refer to a carbon-neutral economy by 2050; CAT notes that no explicit high-level net-zero commitment has been announced.
+Latvia,LVA,2050,In law (EU),1 (law),Included,NZT/ECIU
+Lithuania,LTU,2050,In law (EU),1 (law),Included,NZT/ECIU
+Luxembourg,LUX,2050,In law (EU),1 (law),Included,NZT/ECIU
+Malaysia,MYS,2050,In policy document,2 (policy),Included,NZT/ECIU
+Mexico,MEX,2050,In policy document,2 (policy),Included,NZT/ECIU
+Netherlands,NLD,2050,In law (EU),1 (law),Included,NZT/ECIU
+New Zealand,NZL,2050,In law,1 (law),Included,NZT/ECIU
+Norway,NOR,2050,In law,1 (law),Included,NZT/ECIU
+Peru,PER,2050,In policy document,2 (policy),Included,NZT/ECIU
+Poland,POL,2050,In law (EU),1 (law),Included,EU Climate Law 2050 used; no separate national net-zero law identified.
+Portugal,PRT,2050,In law (EU),1 (law),Included,NZT/ECIU
+Romania,ROU,2050,In law (EU),1 (law),Included,NZT/ECIU
+Slovakia,SVK,2050,In law (EU),1 (law),Included,NZT/ECIU
+Slovenia,SVN,2050,In law (EU),1 (law),Included,NZT/ECIU
+South Africa,ZAF,2050,In policy document,2 (policy),Included,NZT/ECIU
+South Korea,KOR,2050,In law,1 (law),Included,NZT/ECIU
+Spain,ESP,2050,In law,1 (law),Included,NZT/ECIU
+Sri Lanka,LKA,2050,In policy document,2 (policy),Included,NZT/ECIU
+Switzerland,CHE,2050,In law,1 (law),Included,NZT/ECIU
+United Arab Emirates,ARE,2050,In policy document,2 (policy),Included,NZT/ECIU
+United Kingdom,GBR,2050,In law,1 (law),Included,NZT/ECIU
+Vietnam,VNM,2050,In policy document,2 (policy),Included,NZT/ECIU
+Türkiye,TUR,2053,In policy document,2 (policy),Included,NZT/ECIU
+Bahrain,BHR,2060,Declaration / pledge,3 (pledge),Included,NZT/ECIU
+China,CHN,2060,In policy document,2 (policy),Included,NZT/ECIU
+Indonesia,IDN,2060,Declaration / pledge,3 (pledge),Included,NZT/ECIU
+Kazakhstan,KAZ,2060,In law,1 (law),Included,NZT/ECIU
+Nigeria,NGA,2060,In law,1 (law),Included,NZT/ECIU
+Russian Federation,RUS,2060,In law,1 (law),Included,NZT/ECIU
+Saudi Arabia,SAU,2060,Declaration / pledge,3 (pledge),Included,NZT/ECIU
+Ukraine,UKR,2060,In law,1 (law),Included,NZT/ECIU
+Thailand,THA,2065,In policy document,2 (policy),Included,NZT/ECIU
+India,IND,2070,In policy document,2 (policy),Included,NZT/ECIU
+Qatar,QAT,—,No current verified target,—,Excluded,The previous 2060 entry could not be verified as an economy-wide net-zero target and is excluded from Figs. 4–5.
+United States,USA,—,No current verified target,—,Excluded,Current tracker record: no national target. Former federal 2050 goal excluded from Figs. 4–5.

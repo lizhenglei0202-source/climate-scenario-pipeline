@@ -1,0 +1,16 @@
+{
+  "parsed_n": 4739,
+  "at_or_below_500_pct": 29.774,
+  "above_1150_pct": 32.665,
+  "above_3500_pct": 9.01,
+  "parse_modes": {
+    "field-only scalar": 2339,
+    "unit-bound scalar": 2034,
+    "unit-bound range midpoint": 363,
+    "field-only range midpoint": 3
+  },
+  "excluded_nonempty_n": 355,
+  "multiple_value_exclusions_n": 4,
+  "range_policy": "midpoint",
+  "unit_convention": "GtCO2; GtC/PgC converted at 3.664; Mt converted to Gt"
+}

@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+openai>=1.30
+requests>=2.31
+pdfplumber
+tqdm
+python-dotenv

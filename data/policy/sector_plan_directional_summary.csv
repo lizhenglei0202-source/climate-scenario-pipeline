@@ -1,0 +1,19 @@
+Sector,Directional alignment,Records
+Aviation,At/approximately above selected reference,1
+Aviation,Below selected reference,5
+Buildings,At/approximately above selected reference,1
+Buildings,Below selected reference,1
+Buildings,Mixed/partial relative to selected reference,4
+Cement,At/approximately above selected reference,1
+Cement,Below selected reference,1
+Cement,Mixed/partial relative to selected reference,1
+Forestry & land,At/approximately above selected reference,3
+Forestry & land,Below selected reference,1
+Forestry & land,Mixed/partial relative to selected reference,4
+Power,Below selected reference,2
+Power,Mixed/partial relative to selected reference,5
+Road transport,At/approximately above selected reference,1
+Road transport,Below selected reference,2
+Road transport,Mixed/partial relative to selected reference,1
+Steel,Below selected reference,1
+Steel,Mixed/partial relative to selected reference,2
